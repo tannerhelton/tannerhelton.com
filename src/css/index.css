@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.header {
+    
+}
+
+div.about-text {
+    width: 50%;
+    float: left;
+}
+
+img.profile-img {
+    width: 25%;
+    float: right;
+    align-content: center;
+    max-height: 25%;
+}
+
+div.container {
+    overflow: hidden;
+}
